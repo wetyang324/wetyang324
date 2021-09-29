@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 Hi, I'm Wet Yang. I'm currently majoring psychology 
+git status 
